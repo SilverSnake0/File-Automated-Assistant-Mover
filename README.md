@@ -13,7 +13,7 @@ Welcome to the FREE File Automated Assistant Mover program! This program is desi
   - Filter files by the numbers in their names using the "Search by Min & Max Number" in file name feature. You can specify a range of numbers to include or exclude from your search results.
   - Zip up files using the "Zip Up Files" feature. This allows you to easily compress and download multiple files at once.
   - Search for files by their extension using the "Search by File Extension" feature.
-  - 100 file extensions are supported for folder organization!
+  - over 100 file extensions are supported for folder organization!
 
 # Requirements
 

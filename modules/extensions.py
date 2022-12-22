@@ -15,6 +15,7 @@ def get_folder_name(extension):
         'dotx': 'Documents',
         'dot': 'Documents',
         'xml': 'Documents',
+        'djvu': 'Documents',
         'xltx': 'Excel',
         'xlsm': 'Excel',
         'xltm': 'Excel',
@@ -157,6 +158,7 @@ def get_folder_name(extension):
         'vsx': 'Drawing',
         'vstm': 'Drawing',
         'vssm': 'Drawing',
+        'odg': 'Drawing',
         'pub': 'Publisher',
         'xps': 'XPS',
         'oxps': 'XPS',
@@ -168,6 +170,9 @@ def get_folder_name(extension):
         'mspdi': 'Project',
         'mpptx': 'Project',
         'mptx': 'Project',
+        'epub': 'eBook',
+        'gpx': 'GPX file',
+        
     }
     # Gets an extension's value, if it doesn't exist then this will sort the remaining into "Other" folder
     return folders.get(extension, 'Other')
