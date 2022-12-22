@@ -48,7 +48,7 @@ followed by
 
 If you have thousands of messy unorganized files, then this is one of the quickest ways to organize them into similar categories. First click on "copy as path" on the folder you want to organize, like in this picture:
 
-![Folder Path](source_folder_test\source_path_pic.png)
+![Folder Path](source_path_pic.png)
 
 In your terminal, go into your working directory where this program is located, then type:
 
@@ -58,9 +58,9 @@ or you can just right click and paste the path you just copied after the ```pyth
 
 __Before__:
 
-![Before Pic](source_folder_test\before-organization-pic.png)
+![Before Pic](before-organization-pic.png)
 
 __After__:
 
-![After Pic](source_folder_test\after-organization-pic.png)
-![Terminal Pic](source_folder_test\terminal-photo.png)
+![After Pic](after-organization-pic.png)
+![Terminal Pic](terminal-photo.png)
