@@ -51,6 +51,7 @@ If you have thousands of messy unorganized files, then this is one of the quicke
 ![Folder Path](source_folder_test\source_path_pic.png)
 
 In your terminal, go into your working directory where this program is located, then type:
+
 ```python faam.py C:\Enter\Your\Messy\Folder\Path```
 
 or you can just right click and paste the path you just copied after the ```python faam.py```
