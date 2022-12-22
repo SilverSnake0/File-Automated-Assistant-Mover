@@ -1,0 +1,10 @@
+    Apples
+    Bananas
+    Bread
+    Milk
+    Eggs
+    Cheese
+    Chicken
+    Ground beef
+    Carrots
+    Lettuce

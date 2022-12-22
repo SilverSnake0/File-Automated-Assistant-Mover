@@ -1,0 +1,10 @@
+    Siamese
+    Persian
+    Maine Coon
+    Devon Rex
+    Sphynx
+    Scottish Fold
+    American Shorthair
+    British Shorthair
+    Abyssinian
+    Bengal
