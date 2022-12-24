@@ -1,6 +1,6 @@
 # <u>F</u>ile <u>A</u>utomated <u>A</u>ssistant <u>M</u>over
 
-Welcome to the FREE File Automated Assistant Mover program! This program is designed to help you easily search, manage, and organize your files.
+Welcome to the FREE File Automated Assistant Mover program! This program is designed to help you easily search, manage, and organize your files so you don't need to sort them manually. A couple hours long process could be done in seconds!
 
 # Features
 
@@ -19,12 +19,10 @@ Welcome to the FREE File Automated Assistant Mover program! This program is desi
 
 - __Python 3__
 
-This program is to meant to be ran in the terminal by entering this code in the same working directory where the program is located by typing:
+This program is to meant to be ran in the terminal by entering this code in the terminal while you're in the same working directory where the program is located:
 ```python faam.py```
 
-If you are having trouble with the UTF-8 encoding when starting the program, first go into the current working directory where the program is located within the terminal.
-
-Then if you're using the git bash terminal, you can try using the following command:
+If you are having trouble with the UTF-8 encoding when starting the program, first go into the current working directory where the program is located within the terminal. Then, if you're using the git bash terminal, try using the following command:
 
 ```PYTHONIOENCODING=utf-8 python faam.py```
 
@@ -46,15 +44,13 @@ followed by
 
 # Easy organization for your files
 
-If you have thousands of messy unorganized files, then this is one of the quickest ways to organize them into similar categories. First click on "copy as path" on the folder you want to organize, like in this picture:
+If you have thousands of messy unorganized files, then this is one of the quickest ways to organize them into similar categories. First right click on the folder you want to organize, then click on "copy as path", like in this picture:
 
 ![Folder Path](source_path_pic.png)
 
-In your terminal, go into your working directory where this program is located, then type:
+In your terminal, go into your working directory where this program is located, then paste the path you just copied after ```python faam.py```. It should look similar to this:
 
-```python faam.py C:\Enter\Your\Messy\Folder\Path```
-
-or you can just right click and paste the path you just copied after the ```python faam.py```
+```python faam.py C:\Paste\Your\Messy\Folder\Path\Here```
 
 __Before__:
 
@@ -64,3 +60,6 @@ __After__:
 
 ![After Pic](after-organization-pic.png)
 ![Terminal Pic](terminal-photo.png)
+
+# Disclaimer
+This program is provided as-is. There are no warranties about the completeness, reliability, and accuracy of this program. Any bugs or loss of data is strictly at your own risk. Thank you! 
